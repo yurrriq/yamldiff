@@ -1,5 +1,6 @@
 /.go/
-yamldiff
-vendor/
+/result
 coverage/
 release/
+vendor/
+yamldiff
