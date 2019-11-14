@@ -1,6 +1,6 @@
 # yamldiff
-[![darwin/linux build status](https://travis-ci.org/sahilm/yamldiff.svg?branch=master)](https://travis-ci.org/sahilm/yamldiff)
-[![Go Report Card](https://goreportcard.com/badge/github.com/sahilm/yamldiff)](https://goreportcard.com/report/github.com/sahilm/yamldiff)
+[![darwin/linux build status](https://travis-ci.org/yurrriq/yamldiff.svg?branch=master)](https://travis-ci.org/yurrriq/yamldiff)
+[![Go Report Card](https://goreportcard.com/badge/github.com/yurrriq/yamldiff)](https://goreportcard.com/report/github.com/yurrriq/yamldiff)
 
 A CLI tool to diff two YAML/JSON files.
 
@@ -17,7 +17,7 @@ Thanks to all the contributors of the above libraries.
 
 ## Installation
 
-* Download a variant of `yamldiff-v$VERSION-{darwin,linux,windows}-amd64` from the [releases](https://github.com/sahilm/yamldiff/releases) page.
+* Download a variant of `yamldiff-v$VERSION-{darwin,linux,windows}-amd64` from the [releases](https://github.com/yurrriq/yamldiff/releases) page.
 * Rename the downloaded file to something sane like `yamldiff` :)
 * Mark the file as an executable. On *nix, `chmod +x yamldiff`.
 * Put it on your `$PATH`.
@@ -30,7 +30,7 @@ when piping/redirecting the output of `yamldiff`.
 
 ## Contributing
 
-* Pull the code: `go get -u github.com/sahilm/yamldiff`.
+* Pull the code: `go get -u github.com/yurrriq/yamldiff`.
 * Hack away!
 * Send a pull request.
 * Have fun.
